@@ -20,7 +20,7 @@ client.once('ready', () => {
     client.user.setActivity("Productivity - !help", {type: 'PLAYING'});
 });
 
-client.login("ODI4ODkxOTE2NzQxMTE1OTE0.YGwLwQ.e2b7lytZtk6hcU2XVvszjwFGJLY");
+client.login("token");
 
 client.on('guildCreate', guild => {
 
