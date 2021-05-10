@@ -13,7 +13,7 @@ So you may have to host the bot yourself if you want to use it in the best way p
 
 1. Download **bot.js**
 2. Navigate to the file directory of **bot.js** on your computer and open a Terminal / Command Prompt window in the directory.
-3. Type `node bot.js` into the window.
+3. Type `node bot.js` into the window and press enter.
 4. The bot will be online!
 
 #### Dependencies
